@@ -6,4 +6,4 @@ python:
 install: "pip install requests"
 
 # command to run tests
-script: USDA_api_json_query.py
+script: python USDA_api_json_query.py
